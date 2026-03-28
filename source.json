@@ -1,0 +1,22 @@
+{
+    "name": "Outfit Preset Creator",
+    "id": "dev.terrorized.PresetListing",
+    "url": "https://iterrorized.github.io/Outfit-Preset-VPM/index.json",
+    "author": {
+        "email": "xterrorized@outlook.com",
+        "name": "Terrorized",
+        "url": "https://terrorized.dev"
+    },
+    "description": "Generate parameter presets for VRChat avatars",
+    "infoLink": {
+        "url": "https://terrorized.dev",
+        "text": "Website"
+    },
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "iTerrorized/dev.terrorized.drm",
+        "iTerrorized/Outfit-Preset-Creator"
+    ],
+    "packages": [],
+    "lastUpdated": "2026-03-28"
+}
